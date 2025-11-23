@@ -52,7 +52,7 @@ The API will be available at: [http://localhost:3000](http://localhost:3000)
 {
   "nome": "Jerônimo Santana",
   "email": "Jersant@email.com",
-  "nivel_fidelidade": "10"
+  "nivelFidelidade": "10"
 }
 ```
 
